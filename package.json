@@ -1,0 +1,7 @@
+{
+  "name": "kyn-meta-capi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Meta Pixel + Conversions API relay for KYN (kynlabs.fr), deployed on Vercel",
+  "engines": { "node": ">=18" }
+}
